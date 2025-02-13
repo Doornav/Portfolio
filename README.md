@@ -1,44 +1,48 @@
 # Portfolio
-# Data Scientist
+## Software Engineer | Machine Learning | Full-Stack Development  
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### **Technical Skills:** Python, C/C++, Java, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, AWS, Firebase, TensorFlow, Scikit-Learn  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## **Education**
+**University of California, Santa Cruz**  
+- **B.S. in Computer Science** (_Expected June 2026_)  
+- College Scholars Program - Undergraduate Honors  
+- UCSC Undergraduate Dean’s Award  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+---
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## **Work Experience**  
+### **Software Developer @ UCSC Blueprint** (_Oct 2023 - Present_)  
+- Collaborated with a **team of 30+ developers, designers, and QA engineers** to build full-stack applications for nonprofits.  
+- Developed with **React Native, Firebase, TypeScript, and REST APIs**, improving app performance by **30%**.  
+- Built a **secure authentication system with Firebase Authentication**, integrating it into a 10+ page mobile app.  
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### **Coding Tutor @ Techno Smart Kids** (_Sep 2022 - Mar 2023_)  
+- Taught **Python and Java** to **20+ middle and high school students**, covering OOP and data structures.  
+- Designed custom lesson plans, achieving a **90% parent approval rating**.  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## **Projects**
+### **Cauldron: Finance Management App**  
+- Built and deployed a full-stack **finance management** app using **Plaid API** for multi-institution account tracking.  
+- Designed a **Node.js + Express backend** with **MongoDB**, deployed on AWS EC2.  
+- Implemented **JWT authentication, HTTPS security (Caddy), and AWS SES for user verification**.  
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### **AI-Powered Packet Sniffer**  
+- Developed a **machine learning-based network traffic analyzer** to detect malicious packets.  
+- Processed **10,000+ packets** using **Scapy**, extracting features like **packet size, TTL, and protocol**.  
+- Built a **Random Forest classification model**, achieving **95% accuracy** in anomaly detection.  
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### **Android Exercise Performance App**  
+- Created an **Android application** that suggests exercises based on **muscle groups** and fitness level.  
+- Used **Firebase Firestore for database management** and **Firebase Authentication for user sessions**.  
+- Implemented **RESTful APIs** for seamless data retrieval and storage.  
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+---
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
+## **Connect With Me**
+- **[GitHub](https://github.com/doornav)**
+- **[LinkedIn](https://www.linkedin.com/in/pranav-sathianathan-2621a8268/)**
